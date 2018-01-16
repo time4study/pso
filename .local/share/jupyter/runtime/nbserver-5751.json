@@ -1,0 +1,11 @@
+{
+  "base_url": "/user/stud02/",
+  "hostname": "127.0.0.1",
+  "notebook_dir": "/home/stud02",
+  "password": false,
+  "pid": 5751,
+  "port": 33992,
+  "secure": false,
+  "token": "",
+  "url": "http://127.0.0.1:33992/user/stud02/"
+}
